@@ -16,6 +16,7 @@ inherit packagegroup
 # If it is robotics feature, Please place all of them under this variable.
 # About qualcomm-qrb-ros information, Please refer to https://github.com/qualcomm-qrb-ros.
 QUALCOMM_QRB_ROS = " \
+    ocr-service \
 "
 
 # If it is qrb ros sample, Please place all of them under this variable.
