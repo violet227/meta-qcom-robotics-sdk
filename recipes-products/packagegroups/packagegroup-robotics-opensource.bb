@@ -26,6 +26,8 @@ QUALCOMM_QRB_ROS = " \
     qrb-sensor-client \
 	qrb-colorspace-convert-lib \
 	qrb-ros-colorspace-convert \
+	qrb-ros-system-monitor \
+	qrb-ros-system-monitor-interfaces \
 "
 
 # If it is qrb ros sample, Please place all of them under this variable.
