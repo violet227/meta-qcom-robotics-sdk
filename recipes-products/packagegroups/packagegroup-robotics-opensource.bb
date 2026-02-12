@@ -24,8 +24,6 @@ QUALCOMM_QRB_ROS = " \
     qrb-ros-transport-imu-type \
     qrb-ros-transport-point-cloud2-type \
     qrb-sensor-client \
-	qrb-colorspace-convert-lib \
-	qrb-ros-colorspace-convert \
 	qrb-ros-system-monitor \
 	qrb-ros-system-monitor-interfaces \
 "
